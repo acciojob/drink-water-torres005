@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+body{
+	background-color: lightblue
+}
+.cup{
+	width:200px;
+	height:100px;
+	background:purple;
+	border-radius:10px;
+	
+}
